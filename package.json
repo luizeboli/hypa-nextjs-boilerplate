@@ -1,7 +1,9 @@
 {
   "name": "hypa-nextjs-boilerplate",
-  "version": "0.1.0",
+  "author": "Luiz Felicio <https://github.com/luizeboli>",
+  "version": "1.0.0",
   "private": true,
+  "url": "https://github.com/luizeboli",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
