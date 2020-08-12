@@ -2310,7 +2310,7 @@
     core-js "^3.6.5"
     find-up "^4.1.0"
 
-"@storybook/theming@6.0.4":
+"@storybook/theming@6.0.4", "@storybook/theming@^6.0.4":
   version "6.0.4"
   resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-6.0.4.tgz#cfcb77fff483a8963b0a2033b14dd1c3588412ae"
   integrity sha512-iMH5jh28yp9fvI3hgnAvauGEOUj1ZerwAlbYGyrOY/qlAirfso9jX7Fp5x2gpvshFIjCgLXLeOXH+zLZJ8gBmg==
