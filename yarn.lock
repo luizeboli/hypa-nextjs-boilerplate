@@ -2281,18 +2281,18 @@
     core-js "^3.0.1"
     global "^4.3.2"
 
-"@storybook/client-logger@6.0.12":
-  version "6.0.12"
-  resolved "https://registry.yarnpkg.com/@storybook/client-logger/-/client-logger-6.0.12.tgz#33b4c3cd1f1d98dab32d8c8c906301f1ab18f969"
-  integrity sha512-MEFDlBbbqcivF/Xmxitx/ky8kxN7TVBZ7K754/pPEI5q6UW32DecJIRg79UWp/1nBPMX/A0U3ORwv+0MjgDZBQ==
-  dependencies:
-    core-js "^3.0.1"
-    global "^4.3.2"
-
 "@storybook/client-logger@6.0.16":
   version "6.0.16"
   resolved "https://registry.yarnpkg.com/@storybook/client-logger/-/client-logger-6.0.16.tgz#6265d2b869a82be64538eaac39470e3845c9e069"
   integrity sha512-xM61Aewxqoo8500UxV7iPpfqwikITojiCX3+w8ZiCJ2NizSaXkis95TEFAeHqyozfNym5CqG+6v2NWvGYV3ncQ==
+  dependencies:
+    core-js "^3.0.1"
+    global "^4.3.2"
+
+"@storybook/client-logger@6.0.17":
+  version "6.0.17"
+  resolved "https://registry.yarnpkg.com/@storybook/client-logger/-/client-logger-6.0.17.tgz#0ac09b3b229be73b26db189a38dae4f2077fab8b"
+  integrity sha512-+/nxFyZArg4nG8e/+3HL9ayjpPjgVY6nknbrBp2y6+QxTPjfPJPtc0B6nlHm4ckQtMrAoQqCAuO/PwgB+yprCg==
   dependencies:
     core-js "^3.0.1"
     global "^4.3.2"
@@ -2719,15 +2719,15 @@
     resolve-from "^5.0.0"
     ts-dedent "^1.1.1"
 
-"@storybook/theming@^6.0.12":
-  version "6.0.12"
-  resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-6.0.12.tgz#83b2099e7a7a5bd3acadb8e4106234ede62197c7"
-  integrity sha512-hmF6EIbm2A7G84+JR36UQWteElSwSNfGLzccAlUMiZIhdMG0SuCtyHe6FmckAWC226Mv+MW14fr+a4+OuRpM4g==
+"@storybook/theming@^6.0.17":
+  version "6.0.17"
+  resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-6.0.17.tgz#fc58040983d85b18c691980f636a47fddb753d71"
+  integrity sha512-FgSyr9ozQ4o6wHCssrAO7a7BFcHd+F9DYNb7kPzpqP/X8VcuXkge5M87k8aevy33Zp6XeXmS7NsR1Digmybozg==
   dependencies:
     "@emotion/core" "^10.0.20"
     "@emotion/is-prop-valid" "^0.8.6"
     "@emotion/styled" "^10.0.17"
-    "@storybook/client-logger" "6.0.12"
+    "@storybook/client-logger" "6.0.17"
     core-js "^3.0.1"
     deep-object-diff "^1.1.0"
     emotion-theming "^10.0.19"
