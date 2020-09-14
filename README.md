@@ -6,15 +6,16 @@ This is a React boilerplate built with NextJs.
 
 ## What's included
 
-[TypeScript](https://www.typescriptlang.org/)
-[NextJS](https://nextjs.org/)
-[Styled Compontents](https://styled-components.com/)
-[Jest](https://jestjs.io/)
-[React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-[Storybook](https://storybook.js.org/)
-[ESLint](https://eslint.org/)
-[Prettier](https://prettier.io/)
-[Husky](https://github.com/typicode/husky)
+- [TypeScript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [Styled Compontents](https://styled-components.com/)
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- [Storybook](https://storybook.js.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://github.com/typicode/husky)
+- [Dependabot](https://dependabot.com/)
 
 ## Get up and running
 
